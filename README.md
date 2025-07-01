@@ -50,8 +50,9 @@
 ## 🧩 Folder Structure
 
 Pinit/
-├── index.html # main layout
-├── style.css # styling with grid & flexbox
-├── script.js # infinite scroll & pin logic
-├── Pinot_logo.png 
-└── README.md 
+├── index.html        # Main layout of the app
+├── style.css         # Styling with Grid, Flexbox, and responsive design
+├── script.js         # Logic for infinite scroll and dynamic pin loading
+├── Pinit_logo.png    # Logo of the project (used in UI or README)
+└── README.md         # You’re reading it!
+
