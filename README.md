@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Live Demo  
-👉 [Try it here](https://your-live-demo-link.com)  
+👉 [Try it here](https://riddhi-z1465.github.io/Pinit/)  
 📂 [View the GitHub Repo](https://github.com/riddhi-z1465/Pinit)
 
 ---
