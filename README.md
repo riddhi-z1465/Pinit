@@ -57,4 +57,31 @@ Pinit/
 └── README.md         # You’re reading it!
 ```
 
+## 💬 Feedback & Ideas
+
+Have suggestions? Found a bug? Want to collaborate?
+
+Feel free to:
+- ⭐ Star this repo to support it!
+- 🐛 Submit an issue
+- 🧠 Share feature ideas in Discussions
+
+
+## 👩‍💻 Author
+
+**Riddhi Zunjarrao**  
+💼 Aspiring Frontend Developer | UI/UX Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-zunjarrao-03916931a/)  
+📫 Reach out: riddhizunjarrao669@gmail.com
+
+---
+
+---
+
+Made with 💛, curiosity, and way too many console logs.  
+Because the best way to learn is to build — even if you break things along the way. 😄  
+Thanks for stopping by!
+
+
+
 
